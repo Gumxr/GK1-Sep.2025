@@ -12,11 +12,11 @@ export const SPORTS = [
   // ÉT fast net-billede pr. sportsgren (placeholder)
 export const SPORT_IMAGES = {
   s1: '/Users/gumer/GK1-Sep.2025/assets/Padel.jpg',
-  s2: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Fodbold.jpg',
-  s3: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Svømme.jpg',
-  s4: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Badminton.jpg',
-  s5: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Basket.webp',
-  s6: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Handbold.jpg',
-  s7: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Golf.png',
-  s8: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Volleyball.jpg',
+  s2: '/Users/gumer/GK1-Sep.2025/assets/Fodbold.jpg',
+  s3: '/Users/gumer/GK1-Sep.2025/assets/Svømme.jpg',
+  s4: '/Users/gumer/GK1-Sep.2025/assets/Badminton.jpg',
+  s5: '/Users/gumer/GK1-Sep.2025/assets/Basket.webp',
+  s6: '/Users/gumer/GK1-Sep.2025/assets/Handbold.jpg',
+  s7: '/Users/gumer/GK1-Sep.2025/assets/Golf.png',
+  s8: '/Users/gumer/GK1-Sep.2025/assets/Volleyball.jpg',
 };
