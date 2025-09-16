@@ -11,7 +11,7 @@ export const SPORTS = [
 
   // ÉT fast net-billede pr. sportsgren (placeholder)
 export const SPORT_IMAGES = {
-  s1: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Padel.jpg',
+  s1: '/Users/gumer/GK1-Sep.2025/assets/Padel.jpg',
   s2: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Fodbold.jpg',
   s3: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Svømme.jpg',
   s4: '/Users/gumer/Desktop/CBS 5th Semster/Inno/Inno - GK1 /GK1-SportBook/assets/Badminton.jpg',
