@@ -3,6 +3,9 @@
 
 En React Native app bygget med **Expo** og **React Navigation**.  
 Formålet er at give en enkel prototype til booking af sportsfaciliteter.
+Demo Video ligger i Github under navnet: 1Demovideo.mp4
+Besvarelse fra survey ligger i Github under navnet: 2Booking af sports- og fritidsfaciliteter.csv
+
 
 ---
 
